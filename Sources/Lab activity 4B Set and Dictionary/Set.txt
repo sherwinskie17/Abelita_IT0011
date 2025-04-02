@@ -1,0 +1,84 @@
+A = {a, g, d, f, c, k, j, i}
+
+B = {b, l, m, o, c, d, f, h}
+
+C = {h, k, j, i, c}
+
+a. How many elements are there in set A and B?
+We need to find A ∩ B (common elements in A and B).
+
+A ∩ B = {c, d, f}
+
+Number of elements = 3
+
+b. How many elements are there in B that is not part of A and C?
+We need to find B - (A ∪ C) (elements in B but not in A or C).
+
+A ∪ C = {a, g, d, f, c, k, j, i, h, b}
+
+B - (A ∪ C) = {l, m, o}
+
+Number of elements = 3
+
+c. Set Operations for Given Elements
+i. [h, i, j, k]
+
+Set notation: 
+𝐶
+−
+{
+𝑐
+}
+C−{c} or C - {c}
+
+ii. [c, d, f]
+
+Set notation: 
+𝐴
+∩
+𝐵
+A∩B or A ∩ B
+
+iii. [b, c, h]
+
+Set notation: 
+𝐵
+∩
+𝐶
+∪
+{
+𝑏
+}
+B∩C∪{b} or (B ∩ C) ∪ {b}
+
+iv. [d, f]
+
+Set notation: 
+𝐴
+∩
+𝐵
+−
+𝐶
+A∩B−C or (A ∩ B) - C
+
+v. [c]
+
+Set notation: 
+𝐴
+∩
+𝐵
+∩
+𝐶
+A∩B∩C or A ∩ B ∩ C
+
+vi. [l, m, o]
+
+Set notation: 
+𝐵
+−
+(
+𝐴
+∪
+𝐶
+)
+B−(A∪C) or B - (A ∪ C)
